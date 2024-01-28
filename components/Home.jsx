@@ -1,8 +1,8 @@
 import React from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { MARGIN, SIZE } from "../utils/Config";
-import Tile from "../components/Tile";
-import SortableList from "../components/SortableList";
+import { MARGIN, SIZE } from "./Config";
+import Tile from "./Tile";
+import SortableList from "./SortableList";
 
 const tiles = [
   {

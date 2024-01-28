@@ -1,6 +1,6 @@
 import React from "react";
 import Item from "./Item";
-import { COL, SIZE } from "../utils/Config";
+import { COL, SIZE } from "./Config";
 import Animated, {
   useAnimatedRef,
   useAnimatedScrollHandler,

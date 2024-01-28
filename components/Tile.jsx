@@ -1,5 +1,5 @@
 import { Image, StyleSheet, View } from "react-native";
-import { MARGIN, SIZE } from "../utils/Config";
+import { MARGIN, SIZE } from "./Config";
 
 const Tile = ({ uri }) => {
   return (

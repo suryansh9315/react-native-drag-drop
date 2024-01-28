@@ -7,7 +7,7 @@ import {
   animationConfig,
   getOrder,
   getPosition,
-} from "../utils/Config";
+} from "./Config";
 import Animated, {
   scrollTo,
   useAnimatedReaction,
